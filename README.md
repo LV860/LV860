@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Leonardo Velázquez
 🎓 Estudiante de último año de Ingeniería de Sistemas con énfasis en Desarrollo e IA.  
 🤖 Miembro Senior del IEEE Robotics and Automation Society - Rama Javeriana.  
 💡 Me apasiona crear soluciones innovadoras que optimicen procesos y generen impacto social.  
@@ -13,4 +13,4 @@
 - 🔹 **[Proyecto 2](https://github.com/tu-usuario/proyecto2)** - Breve descripción  
 
 📫 **Contáctame**  
-[LinkedIn](https://linkedin.com/in/tuusuario) | [Correo](mailto:tuemail@ejemplo.com)  
+[LinkedIn](https://linkedin.com/in/leonardo-velázquez-colin-1a722834b) | [Correo](mailto:levelazquez.co@gmail.com)  
