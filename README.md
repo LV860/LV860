@@ -14,3 +14,8 @@
 
 📫 **Contáctame**  
 [LinkedIn](https://linkedin.com/in/leonardo-velázquez-colin-1a722834b) | [Correo](mailto:levelazquez.co@gmail.com)  
+
+
+**GIT Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lv860&show_icons=true&theme=tokyonight&count_private=true)
+
