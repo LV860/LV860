@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]  
+🎓 Estudiante de último año de Ingeniería de Sistemas con énfasis en Desarrollo e IA.  
+🤖 Miembro Senior del IEEE Robotics and Automation Society - Rama Javeriana.  
+💡 Me apasiona crear soluciones innovadoras que optimicen procesos y generen impacto social.  
 
-<!--
-**LV860/LV860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías y Habilidades  
+- 💻 Lenguajes: Python, Java, JavaScript  
+- ⚙️ Frameworks: Spring Boot, Angular, TensorFlow  
+- 🛠️ Herramientas: Git, Docker, Firebase  
 
-Here are some ideas to get you started:
+## 📂 Proyectos Destacados  
+- 🔹 **[Proyecto 1](https://github.com/tu-usuario/proyecto1)** - Breve descripción  
+- 🔹 **[Proyecto 2](https://github.com/tu-usuario/proyecto2)** - Breve descripción  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contáctame**  
+[LinkedIn](https://linkedin.com/in/tuusuario) | [Correo](mailto:tuemail@ejemplo.com)  
