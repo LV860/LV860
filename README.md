@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Leonardo Velázquez  
-🎓 Estudiante de último año de Ingeniería de Sistemas con énfasis en Desarrollo e Inteligencia Artificial.  
+🎓 Estudiante de último semestre de Ingeniería de Sistemas con énfasis en Desarrollo Web e Inteligencia Artificial.  
 🤖 Senior Member del IEEE Robotics and Automation Society - Rama Javeriana.  
 💡 Apasionado por la innovación, la inteligencia artificial y la automatización. Me encanta desarrollar soluciones que faciliten la vida de las personas a través de la tecnología.  
 
